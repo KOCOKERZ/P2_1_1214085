@@ -12,7 +12,9 @@ namespace P2_1_1214085
         static void Main(string[] args)
         {
 
-            //Percobaan 1.1
+            //Percobaan 1
+
+            //Mulai
 
             int angkaPertama = int.Parse(Console.ReadLine());
             int angkaKedua = int.Parse(Console.ReadLine());
@@ -28,6 +30,8 @@ namespace P2_1_1214085
             Console.WriteLine("20 - 5 = " + b);
             Console.WriteLine("20 : 5 = " + c);
             Console.WriteLine("20 x 5 = " + d);
+
+            //Selesai
         }
     }
 }
