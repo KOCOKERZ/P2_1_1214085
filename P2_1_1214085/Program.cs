@@ -11,6 +11,9 @@ namespace P2_1_1214085
     {
         static void Main(string[] args)
         {
+
+            //Percobaan 1.1
+
             int angkaPertama = int.Parse(Console.ReadLine());
             int angkaKedua = int.Parse(Console.ReadLine());
             int a = angkaPertama + angkaKedua;
